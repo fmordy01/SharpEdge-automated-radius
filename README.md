@@ -1,8 +1,7 @@
-
-## SharpEdge Barbers - Automated Radius Update Project
+## SpaceOdyssey - Automated Radius Update Project
 
 ### Project Overview
-The **SharpEdge Barbers Automated Radius Update** project automates the updating of ad campaign radii on Google and Facebook Ads based on data in CSV files received via email. This solution was designed to help SharpEdge Barbers dynamically target potential customers within specific geographic areas, adjusting ad radii according to weekday and weekend needs.
+The **SpaceOdyssey Automated Radius Update** project automates the updating of ad campaign radius on Google and Facebook Ads based on data in CSV files received via email. This solution was designed to help SpaceOdyssey dynamically target potential customers within specific geographic areas, adjusting ad radius according to weekday and weekend needs.
 
 ### Solution Summary
 The project workflow consists of automated email monitoring, cloud-based data processing, API interactions with ad platforms, and data visualization:
@@ -34,4 +33,5 @@ The project workflow consists of automated email monitoring, cloud-based data pr
 
 ### Key Learning and Challenges
 This project strengthened my skills in cloud-based architecture, API integration, and data security principles. Working through challenges like API error handling, secure data storage, and integration complexities with third-party services was invaluable.
+
 
