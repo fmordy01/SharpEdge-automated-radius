@@ -24,7 +24,7 @@ The project workflow consists of automated email monitoring, cloud-based data pr
 ### Project Documentation
 1. **[Technical Specification](https://github.com/fmordy01/SharpEdge-automated-radius/blob/ddc3d9c0f17e4385eea97f215ab529b464ec3d98/SpaceOdyssey%20-%20Technical%20specification.pdf)**: Detailed project requirements, setup, and technical solutions.
 2. **[Client Response](link-to-client-response.pdf)**: Overview of the solution approach, phases, and timeline provided to the client.
-3. **[Summary for Line Manager](link-to-summary-for-line-manager.pdf)**: Concise project summary, including key risks, challenges, and mitigation strategies.
+3. **[Summary for Line Manager](https://github.com/fmordy01/SharpEdge-automated-radius/blob/d19dac1ba30d6e4a6520096551757e650c5fb82e/SpaceyOdyssey%20-%20Summary%20for%20line%20manager.pdf)**: Concise project summary, including key risks, challenges, and mitigation strategies.
 
 ### Technologies Used
 - **Cloud Services**: AWS Lambda, S3, API Gateway, IAM roles, Amazon QuickSight
