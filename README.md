@@ -22,9 +22,9 @@ The project workflow consists of automated email monitoring, cloud-based data pr
    - Amazon QuickSight is used to create a dashboard visualizing campaign performance, helping stakeholders understand the effectiveness of radius-based targeting.
 
 ### Project Documentation
-1. **[Technical Specification](https://github.com/fmordy01/SharpEdge-automated-radius/blob/ddc3d9c0f17e4385eea97f215ab529b464ec3d98/SpaceOdyssey%20-%20Technical%20specification.pdf)**: Detailed project requirements, setup, and technical solutions.
-2. **[Client Response](link-to-client-response.pdf)**: Overview of the solution approach, phases, and timeline provided to the client.
-3. **[Summary for Line Manager](https://github.com/fmordy01/SharpEdge-automated-radius/blob/d19dac1ba30d6e4a6520096551757e650c5fb82e/SpaceyOdyssey%20-%20Summary%20for%20line%20manager.pdf)**: Concise project summary, including key risks, challenges, and mitigation strategies.
+1. **[Technical Specification](https://github.com/fmordy01/SpaceOdyssey-automated-radius/blob/3adde267aa57cc65503e7fb9f9903d6299b2cd1d/SpaceOdyssey%20-%20Technical%20specification.pdf)**: Detailed project requirements, setup, and technical solutions.
+2. **[Client Response](https://github.com/fmordy01/SpaceOdyssey-automated-radius/blob/3adde267aa57cc65503e7fb9f9903d6299b2cd1d/SpaceOdyssey%20-%20Client%20response.pdf)**: Overview of the solution approach, phases, and timeline provided to the client.
+3. **[Summary for Line Manager](https://github.com/fmordy01/SpaceOdyssey-automated-radius/blob/3adde267aa57cc65503e7fb9f9903d6299b2cd1d/SpaceyOdyssey%20-%20Summary%20for%20line%20manager.pdf)**: Concise project summary, including key risks, challenges, and mitigation strategies.
 
 ### Technologies Used
 - **Cloud Services**: AWS Lambda, S3, API Gateway, IAM roles, Amazon QuickSight
